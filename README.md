@@ -1,3 +1,3 @@
-#Estudos
+# Estudos
 
-Repositorio criado para estudos e conhecimento
+Repositorio criado para exercicios e conhecimento
